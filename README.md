@@ -34,7 +34,7 @@ Jak to zrobić jest opisane [tutaj](https://github.com/rails4/my_gists).
 
 1. Chraniuk, Mateusz
 1. Mańkowska, Monika
-1. Sielachowicz, Paweł
+1. [Sielachowicz, Paweł](https://github.com/psielachowicz/my_gists)
 1. Żelazek, Mateusz
 
 
