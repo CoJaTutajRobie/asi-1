@@ -107,6 +107,7 @@ TODO:
 
 1. [JSON](https://github.com/gruchanet/snippeter_on_steroids).
 1. [Disco w rytmie polo](https://github.com/kpawel-29/Disco-w-rytmie-polo). [My Gists](http://disco-w-rytmie-polo.shellyapp.com/)
+1. [JSON](https://github.com/gruchanet/snippeter_on_steroids). [Snippeter](http://snippeter.shellyapp.com)
 
 
 #### Indywidualiści
