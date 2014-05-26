@@ -99,15 +99,6 @@ Oczywiście, wybieramy **free plan**.
 1. [None](https://github.com/kaka2991/my_gists). [My Gists](http://my-gists.shellyapp.com/) [1 model, Gemfile: rspec2]
 1. [Hawks 2](https://github.com/szykom/AsiYT). [Hello, Stranger](http://asiyt.shellyapp.com/)
 1. [P&S – dziewczyny Rubiego](https://github.com/MPaulina/AplikacjaASI). [MyGist](http://dziewczynyrubiego.shellyapp.com/)
-
-----
-
-Dane wpisujemy tak:
-
-1. `[Nazwa zespołu](link do repozytorium). [Nazwa Aplikacji](link do aplikacji na Shelly Cloud)`
-
-TODO:
-
 1. [Disco w rytmie polo](https://github.com/kpawel-29/Disco-w-rytmie-polo). [My Gists](http://disco-w-rytmie-polo.shellyapp.com/)
 1. [JSON](https://github.com/gruchanet/snippeter_on_steroids). [Snippeter](http://snippeter.shellyapp.com)
 
@@ -119,11 +110,15 @@ TODO:
 1. [Korszuń, Kacper](https://github.com/gathaspar/RailsApp2). [PiGist](http://railsapp2.shellyapp.com)
 1. [Kurnyta, Przemysław](https://github.com/pkurnyta/exam). [My Movies](http://mymovies-pk.shellyapp.com)
 1. [Kwiatkowski, Dominik](https://github.com/Kalumniatoris/railsy). [Agisty](http://agisty.shellyapp.com)
-1. [Lek, Szymon](https://github.com/leyas/rails-app). [Gisty](http://szymon.shellyapp.com) [1 model, Gemfile: rspec2, Travis: 30 testów]
+1. [Leyk, Szymon](https://github.com/leyas/rails-app). [Gisty](http://szymon.shellyapp.com) [1 model, Gemfile: rspec2, Travis: 30 testów]
 1. [Szklarska, Milena](https://github.com/madebytechnology/RailsAppExam). [#music #power #fun](http://musicalbums.shellyapp.com) [Gemfile: rspec2]
 1. [Nowicki, Jakub](https://github.com/jnowicki/rails-myGists). [myGists](http://mygists.kubavic.vdl.pl) [1 model, Gemfile: rspec2]
 
 <!--
+
+Dane wpisujemy tak:
+
+1. `[Nazwa zespołu](link do repozytorium). [Nazwa Aplikacji](link do aplikacji na Shelly Cloud)`
 
 ### Ścieżka raz, dwa, trzy (*deadline* – 12.05.2014)
 
