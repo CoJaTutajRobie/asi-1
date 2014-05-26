@@ -50,7 +50,7 @@ Szkielet aplikacji korzystającej z *Movie Database API* umieściłem
 na GitHubie – [My Movies](https://github.com/rails4/my_movies).
 Aplikacje na egzamin powinny korzystać z innych API.
 
-Ostateczny termin rozliczenia się z projektu – **31.08.2014**.
+Ostateczny termin rozliczenia się z projektu – **25.08.2014**.
 
 1. Bigda, Piotr.
 1. Szynkaruk, Kamil.
@@ -64,7 +64,6 @@ Ostateczny termin rozliczenia się z projektu – **31.08.2014**.
 1. [Bigda, Piotr](https://github.com/CoJaTutajRobie/egzamin). [brak repo]
 1. [Korszuń, Kacper](https://github.com/gathaspar/RailsApp2). [PiGist](http://pigist.shellyapp.com/) [1 model: +lang?, Gemfile: rspec2, Travis: 7 testów]
 1. [Szynkaruk, Kamil](https://github.com/ferocis/my_gists), [C+#1](http://zaliczenie.herokuapp.com/)
-1. [Zbierowski, Maciej](https://github.com/Macio1992/myBooks). [B#3](http://my-books-macio1992.herokuapp.com/)
 
 1. [Sielachowicz, Paweł](https://github.com/psielachowicz/my_gists)
 1. [Zbierowski, Maciej](https://github.com/Macio1992/MyMoviesRubyProject). [My Movies](http://maciekapka.cloudapp.net) [niepodłączone testy, śmieci w repo, brak testów]
@@ -205,6 +204,7 @@ korzystajacą z innego API, na przykład, któregoś z tej listy –
 1. [Wittbrodt, Łukasz](https://github.com/lukasz978/my_gists). [C+#1](http://lrails.herokuapp.com/).
 1. [Zając, Mateusz](https://github.com/zajacmp3/RubyOnRails-Informatyka-). [E#2](http://www.rails.zajacmp3.pl).
 1. [Zawadzki, Dawid](https://github.com/ghost717/my_gists). [C+#1](http://dzawadzki-app.herokuapp.com).
+1. [Zbierowski, Maciej](https://github.com/Macio1992/myBooks). [B#3](http://my-books-macio1992.herokuapp.com/)
 1. [Żynis, Przemysław](https://github.com/Zynio/MyBooks.git). [C#3](http://managerstore.herokuapp.com).
 1. [Żuchowski, Sebastian](https://github.com/modziek/project_ruby). [C#1](http://maniana.herokuapp.com//).
 
