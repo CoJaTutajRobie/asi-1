@@ -54,9 +54,9 @@ Aplikacje na egzamin powinny korzystać z innych API.
 Ostateczny termin rozliczenia się z projektu – **31.08.2014**.
 
 1. Bigda, Piotr
-1. [Korszuń, Kacper](https://github.com/gathaspar/RailsApp2) [PiGist](http://railsapp2.shellyapp.com)
+1. [Korszuń, Kacper](https://github.com/gathaspar/RailsApp2). [PiGist](http://railsapp2.shellyapp.com)
 1. Szynkaruk, Kamil
-1. [Zbierowski, Maciej] (https://github.com/Macio1992/MyMoviesRubyProject) [My Movies](http://maciekapka.cloudapp.net)
+1. [Zbierowski, Maciej] (https://github.com/Macio1992/MyMoviesRubyProject). [My Movies](http://maciekapka.cloudapp.net)
 
 <!--
 
