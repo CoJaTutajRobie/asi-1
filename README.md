@@ -30,11 +30,11 @@ Aplikację należy wdrożyć na **ShellyCloud**.<br>
 Jak to zrobić jest opisane [tutaj](https://github.com/rails4/my_gists).
 
 
-### Niezaliczone laboratorium
+### Niezaliczenie laboratorium
 
-1. Chraniuk, Mateusz
-1. Mańkowska, Monika
-1. Żelazek, Mateusz
+1. Chraniuk, Mateusz.
+1. Mańkowska, Monika.
+1. Żelazek, Mateusz.
 
 
 ### Egzamin poprawkowy (wrzesień)
@@ -53,10 +53,9 @@ Aplikacje na egzamin powinny korzystać z innych API.
 Ostateczny termin rozliczenia się z projektu – **31.08.2014**.
 
 1. Bigda, Piotr.
-1. [Korszuń, Kacper](https://github.com/gathaspar/RailsApp2). [PiGist](http://railsapp2.shellyapp.com)
-1. Szynkaruk, Kamil
+1. Szynkaruk, Kamil.
 1. Sielachowicz, Paweł.
-1. [Zbierowski, Maciej](https://github.com/Macio1992/MyMoviesRubyProject). [My Movies](http://maciekapka.cloudapp.net)
+1. Zbierowski, Maciej.
 
 <!--
 
@@ -68,6 +67,9 @@ Ostateczny termin rozliczenia się z projektu – **31.08.2014**.
 1. [Zbierowski, Maciej](https://github.com/Macio1992/myBooks). [B#3](http://my-books-macio1992.herokuapp.com/)
 
 1. [Sielachowicz, Paweł](https://github.com/psielachowicz/my_gists)
+1. [Zbierowski, Maciej](https://github.com/Macio1992/MyMoviesRubyProject). [My Movies](http://maciekapka.cloudapp.net) [niepodłączone testy, śmieci w repo, brak testów]
+   ERROR: Permission to Macio1992/MyMoviesRubyProject.git denied to wbzyl.
+   fatal: Could not read from remote repository.
 
 -->
 
@@ -115,6 +117,7 @@ TODO:
 
 1. [Cywiński, Tymoteusz](https://github.com/tcywinski/my_movies_123). [My Movies](http://my-movies-123.herokuapp.com/) [Shelly Cloud?]
 1. [Kołek, Maciej](https://bitbucket.org/ferus/csgotraders). [CSGO Traders](http://beta.csgotraders.net) [Gemfile: rspec2, Travis: brak]
+1. [Korszuń, Kacper](https://github.com/gathaspar/RailsApp2). [PiGist](http://railsapp2.shellyapp.com)
 1. [Kurnyta, Przemysław](https://github.com/pkurnyta/exam). [My Movies](http://mymovies-pk.shellyapp.com)
 1. [Kwiatkowski, Dominik](https://github.com/Kalumniatoris/railsy). [Agisty](http://agisty.shellyapp.com)
 1. [Lek, Szymon](https://github.com/leyas/rails-app). [Gisty](http://szymon.shellyapp.com) [1 model, Gemfile: rspec2, Travis: 30 testów]
