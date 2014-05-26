@@ -34,7 +34,6 @@ Jak to zrobić jest opisane [tutaj](https://github.com/rails4/my_gists).
 
 1. Chraniuk, Mateusz
 1. Mańkowska, Monika
-1. [Sielachowicz, Paweł](https://github.com/psielachowicz/my_gists)
 1. Żelazek, Mateusz
 
 
@@ -53,10 +52,11 @@ Aplikacje na egzamin powinny korzystać z innych API.
 
 Ostateczny termin rozliczenia się z projektu – **31.08.2014**.
 
-1. Bigda, Piotr
+1. Bigda, Piotr.
 1. [Korszuń, Kacper](https://github.com/gathaspar/RailsApp2). [PiGist](http://railsapp2.shellyapp.com)
 1. Szynkaruk, Kamil
-1. [Zbierowski, Maciej] (https://github.com/Macio1992/MyMoviesRubyProject). [My Movies](http://maciekapka.cloudapp.net)
+1. Sielachowicz, Paweł.
+1. [Zbierowski, Maciej](https://github.com/Macio1992/MyMoviesRubyProject). [My Movies](http://maciekapka.cloudapp.net)
 
 <!--
 
@@ -66,6 +66,8 @@ Ostateczny termin rozliczenia się z projektu – **31.08.2014**.
 1. [Korszuń, Kacper](https://github.com/gathaspar/RailsApp2). [PiGist](http://pigist.shellyapp.com/) [1 model: +lang?, Gemfile: rspec2, Travis: 7 testów]
 1. [Szynkaruk, Kamil](https://github.com/ferocis/my_gists), [C+#1](http://zaliczenie.herokuapp.com/)
 1. [Zbierowski, Maciej](https://github.com/Macio1992/myBooks). [B#3](http://my-books-macio1992.herokuapp.com/)
+
+1. [Sielachowicz, Paweł](https://github.com/psielachowicz/my_gists)
 
 -->
 
