@@ -56,10 +56,9 @@ Ostateczny termin rozliczenia się z projektu – **25.08.2014**.
 1. Szynkaruk, Kamil.
 1. Sielachowicz, Paweł.
 1. Zbierowski, Maciej.
+1. [Smykowski, Adrian](https://github.com/FiskSMK/ASI). [A#4](http://vanfisk.herokuapp.com).
 
 <!--
-
-1. [Smykowski, Adrian](https://github.com/FiskSMK/ASI). [A#4](http://vanfisk.herokuapp.com) **brak na liście z dziekanatu**
 
 1. [Bigda, Piotr](https://github.com/CoJaTutajRobie/egzamin). [brak repo]
 1. [Korszuń, Kacper](https://github.com/gathaspar/RailsApp2). [PiGist](http://pigist.shellyapp.com/) [1 model: +lang?, Gemfile: rspec2, Travis: 7 testów]
