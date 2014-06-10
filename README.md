@@ -56,7 +56,7 @@ Ostateczny termin rozliczenia się z projektu – **25.08.2014**.
 1. Szynkaruk, Kamil.
 1. Sielachowicz, Paweł.
 1. Zbierowski, Maciej.
-1. [Smykowski, Adrian](https://github.com/FiskSMK/ASI). [A#4](http://vanfisk.herokuapp.com).
+1. [Smykowski, Adrian](https://github.com/FiskSMK/mygists). [A#4](http://mygists-asmykowski.herokuapp.com/).
 
 <!--
 
@@ -112,6 +112,7 @@ Oczywiście, wybieramy **free plan**.
 1. [Leyk, Szymon](https://github.com/leyas/rails-app). [Gisty](http://szymon.shellyapp.com) [1 model, Gemfile: rspec2, Travis: 30 testów]
 1. [Szklarska, Milena](https://github.com/madebytechnology/RailsAppExam). [#music #power #fun](http://musicalbums.shellyapp.com) [Gemfile: rspec2]
 1. [Nowicki, Jakub](https://github.com/jnowicki/rails-myGists). [myGists](http://mygists.kubavic.vdl.pl) [1 model, Gemfile: rspec2]
+1. [Smykowski, Adrian](https://github.com/FiskSMK/vanfisk). [VanFisk](http://vanfisk.herokuapp.com/)
 
 <!--
 
