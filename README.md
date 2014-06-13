@@ -54,7 +54,7 @@ Ostateczny termin rozliczenia się z projektu – **25.08.2014**.
 
 1. Bigda, Piotr.
 1. Szynkaruk, Kamil.
-1. Sielachowicz, Paweł.
+1. [Sielachowicz, Paweł](https://github.com/psielachowicz/My_movies).
 1. Zbierowski, Maciej.
 1. [Smykowski, Adrian](https://github.com/FiskSMK/mygists). [A#4](http://mygists-asmykowski.herokuapp.com/).
 
