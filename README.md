@@ -40,7 +40,7 @@ Jak to zrobić jest opisane [tutaj](https://github.com/rails4/my_gists).
 ### Egzamin poprawkowy (wrzesień)
 
 Na termin poprawkowy należy **samodzielnie** napisać i uruchomić
-na Shelly Cloud aplikację korzystającą z jednego z API z tej listy
+na **Heroku** aplikację korzystającą z jednego z API z tej listy
 [List of data APIs that require no server-side auth or private credentials](https://gist.github.com/wbzyl/9989677)
 (mój fork [gist:4952991](https://gist.github.com/afeld/4952991)).
 Do aplikacji należy napisać ok. 40 testów,
