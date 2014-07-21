@@ -46,12 +46,13 @@ na **Heroku** aplikację korzystającą z jednego z API z tej listy
 Do aplikacji należy napisać ok. 40 testów,
 a kod należy podłączyć do systemu [Travis](https://travis-ci.org/).
 
-Oczywiście, można też skorzystać z API, które wymagają autoryzacji, np.
-YouTube + gem [Yt](https://github.com/rails4/asi).
-
 Szkielet aplikacji korzystającej z *Movie Database API* umieściłem
 na GitHubie – [My Movies](https://github.com/rails4/my_movies).
 Aplikacje na egzamin powinny korzystać z innych API.
+
+Wyjątkowo można skorzystać z API, które wymagają autoryzacji, np.
+YouTube + gem [Yt](https://github.com/rails4/asi).
+W takim wypadku, proszę o email z informacją.
 
 Ostateczny termin rozliczenia się z projektu – **25.08.2014**.
 
