@@ -56,7 +56,7 @@ W takim wypadku, proszę o email z informacją.
 
 Ostateczny termin rozliczenia się z projektu – **25.08.2014**.
 
-1. Bigda, Piotr.
+1. [Bigda, Piotr](https://github.com/CoJaTutajRobie/my_places)
 1. Szynkaruk, Kamil.
 1. [Sielachowicz, Paweł](https://github.com/psielachowicz/My_movies).
 1. Zbierowski, Maciej.
